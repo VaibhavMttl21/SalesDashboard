@@ -60,7 +60,7 @@ This helps identify:
 
 ## 📎 Screenshot
 
-![Agents QOQ Sales Dashboard](./ce90b830-7f27-4bfc-b8d3-b6b25812c2bb.png)
+![Agents QOQ Sales Dashboard](https://github.com/VaibhavMttl21/SalesDashboard/blob/main/salesimage.jpeg?raw=true)
 
 ---
 
